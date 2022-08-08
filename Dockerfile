@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/visualization-server:1.8.1
+FROM gcr.io/ml-pipeline/cache-deployer:1.8.1
