@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/viewer-crd-controller:1.8.1
+FROM gcr.io/ml-pipeline/workflow-controller:v3.2.3-license-compliance
