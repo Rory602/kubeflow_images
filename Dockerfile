@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM gcr.io/ml-pipeline/frontend:1.8.1
