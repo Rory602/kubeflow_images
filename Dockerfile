@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/workflow-controller:v3.2.3-license-compliance
+FROM gcr.io/ml-pipeline/cache-server:1.8.1
