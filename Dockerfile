@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/cache-server:1.8.1
+FROM gcr.io/ml-pipeline/mysql:5.7
